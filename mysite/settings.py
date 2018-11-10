@@ -25,7 +25,7 @@ SECRET_KEY = '5g#&=vpnv_hw$v^wn8)w6p5^$@9tdc0h!k_sqq!y5mrjayl3_$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.0','crivasi.pythonanywhere.com']
 
 
 # Application definition
